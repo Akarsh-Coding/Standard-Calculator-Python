@@ -149,7 +149,6 @@ class Calculator:
 
     # Button Actions
     def press(self, value):
-        # self.dis.delete(0,END)
         self.input += str(value)
         self.dis.delete(0, END)
         self.dis.insert(END, self.input)
