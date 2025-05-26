@@ -26,7 +26,7 @@ A simple yet fully functional **Standard Calculator** built using **Python** and
 
 ## 🖼️ Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 ---
 
